@@ -1,0 +1,1 @@
+[28-Jan-2023 12:57:54 UTC] PHP Fatal error:  Cannot declare class AddDeleteStatusInChatsTable, because the name is already in use in /home/farmsell33/public_html/API/database/migrations/2023_01_27_083318_add_delete_status_in_chats_table.php on line 7

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "google-map-react": "^2.1.10",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-tabs": "^3.2.2"
+  }
+}
